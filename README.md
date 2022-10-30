@@ -21,7 +21,7 @@ References used
 ![Hive database management](https://www.youtube.com/watch?v=w8cZKm9s228)
 ![Graphs](https://pub.dev/packages/fl_chart)
 
-App GIF
+
 <img src='https://github.com/Shashank-Girish/IRIS_2022_Shashank_G_211CS256/blob/master/IRIS_Rec_GIF_Habit_App_Shashank.gif'>
 
 Operating System used 
