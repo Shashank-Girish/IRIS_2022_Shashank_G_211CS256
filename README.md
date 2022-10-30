@@ -25,4 +25,4 @@ References used
 <img src='https://github.com/Shashank-Girish/IRIS_2022_Shashank_G_211CS256/blob/master/IRIS_Rec_GIF_Habit_App_Shashank.gif'>
 
 Operating System used 
-Microsoft Windows 11
+-Microsoft Windows 11
